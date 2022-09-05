@@ -34,19 +34,18 @@ The Home button will end the game completely and redirect back to the home scree
 
 
 ## Screenshots
-More info to come...
-<!-- Below is a screenshot of the project:
+Below is a screenshot of the project:
 
-![Image of HomeScreen](./client/assets/images/homescreen_main.jpg)
-
-
-![Image of PlayScreenIdle](./client/assets/images/playscreen-idle.jpg)
+![Image of Art on Canvas](./develop/assets/images/h-tree-fractal.jpg)
 
 
-![Image of PlayScreenActive](./client/assets/images/playscreen_updated.jpg)
+<!-- ![Image of PlayScreenIdle](./client/assets/images/playscreen-idle.jpg) -->
 
 
-![Image of SummaryReport](./client/assets/images/summary-report.jpg) -->
+<!-- ![Image of PlayScreenActive](./client/assets/images/playscreen_updated.jpg) -->
+
+
+<!-- ![Image of SummaryReport](./client/assets/images/summary-report.jpg) -->
 
 ---
 © 2022 CCure Coaching, Arts & Apparel.

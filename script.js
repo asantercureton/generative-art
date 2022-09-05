@@ -21,9 +21,9 @@ function drawTree(startX, startY, len, angle, branchWidth, color1, color2) {
         return;
     }
 
-    drawTree(0, -len, -len * 0.75, angle + 5, branchWidth);
-    drawTree(0, -len, -len * 0.75, angle - 5, branchWidth);
+    drawTree(0, -len, len * 0.75, angle + 5, branchWidth);
+    drawTree(0, -len, len * 0.75, angle - 5, branchWidth);
 
     ctx.restore();
 }
-drawTree(canvas.width/2, canvas.height - 80, 120, 0, 2, 'white', 'green');
+drawTree(canvas.width/2, canvas.height - 80, 120, 0, 2, 'aqua', 'green');
