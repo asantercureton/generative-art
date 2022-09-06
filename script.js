@@ -37,7 +37,7 @@ function drawTree(startX, startY, len, angle, branchWidth, color1, color2) {
 
     ctx.restore();
 }
-drawTree(canvas.width/2, canvas.height - 80, 120, 0, 20, 'blue', 'orangered');
+drawTree(canvas.width/2, canvas.height - 80, 380, 0, 20, 'blue', 'orangered');
 
 function generateRandomTree() {
     ctx.clearRect(0,0,canvas.width, canvas.height);
@@ -49,11 +49,12 @@ function generateRandomTree() {
     let color1 = 'rgb(' + Math.random() * 255 + ', ' + Math.random() * 255 + ', ' + Math.random() * 255 + ')';
     let color2 = 'rgb(' + Math.random() * 255 + ', ' + Math.random() * 255 + ', ' + Math.random() * 255 + ')';
     let color3 = 'rgb(' + Math.random() * 255 + ', ' + Math.random() * 255 + ', ' + Math.random() * 255 + ')';
-
+    let randomNum = toString(curve2);
     generateBtn.style.background = color1;
     generateBtn.style.color = canvas.style.background = color3;
     curve = (Math.random() * 20) + 2;
     curve2 = Math.random() * 50;
+    generateBtn.style.borderRadius = randomNum;
 
     drawTree(centerPointX, canvas.height - 80, len, angle, branchWidth, color1, color2);
 }
