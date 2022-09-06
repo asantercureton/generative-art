@@ -26,8 +26,7 @@ Click the Generate Random Tree button to shuffle through a variety of randomized
 ## Screenshots
 Below is a screenshot of the project:
 
-![Image of Art on Canvas](./develop/assets/images/tree-five.jpg)
-
+![Image of Art on Canvas](./develop/assets/images/tree-five.JPG)
 
 ![Image of Tree Art Example](./develop/assets/images/tree-one.JPG)
 
