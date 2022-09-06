@@ -16,7 +16,7 @@ Designed a therapeutic generative art game for individuals of all ages to enjoy 
 ## Links
 [Git Repo](https://github.com/asantercureton/generative-art)
 
-<!-- [Live Link - GitHub Pages](https://asantercureton.github.io/generative-art/) -->
+[Live Link - GitHub Pages](https://asantercureton.github.io/generative-art/)
 
 
 ## Instructions
